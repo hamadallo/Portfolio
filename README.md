@@ -25,7 +25,7 @@ Welcome to my online portfolio! I'm Hamad, an Information Technology and Computi
 - **Description:** [ A voice-controlled personal assistant for PC, offering full system control and person recognition features ]
 - **Technologies used**: [ JAVA core libraries ]
 - **GitHub Repository:** Out of Github.
-- **Future Plans:** Possible restart later.
+- **Future Plans:** Possible return later.
 -------------------------------------------
 
 ## Communities
