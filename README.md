@@ -2,11 +2,11 @@
 
 ## About Me
 
-Welcome to my online portfolio! I'm [Hamad], a [ITC] passionate about [Your Interests/Hobbies]. This portfolio serves as a digital representation of my skills, experiences, and projects.
+Welcome to my online portfolio! I'm Hamad, a [ITC] passionate about [Your Interests/Hobbies]. This portfolio serves as a digital representation of my skills, experiences, and projects.
 
 ## Education
 
-- Bachelor of [Information Technology and Computing], [University Name], [Year of Graduation]
+- Bachelor of [Information Technology and Computing], [AOU Kuwait](https://www.aou.edu.kw/Pages/default.aspx), [Year of Graduation]
 - [Any Relevant Courses or Certifications]
 
 ## Projects
