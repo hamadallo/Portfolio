@@ -1,1 +1,4 @@
 
+# Ignore IntelliJ IDEA files
+Portfolio.iml
+.idea/
